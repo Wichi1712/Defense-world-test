@@ -197,7 +197,7 @@ break;
           <argument>
             <kind>1</kind>
             <string>///Dibuja opciones de menu
-draw_set_font( font_menu);
+draw_set_font( font_pausa);
 draw_set_halign( fa_center);
 
 //Texto para Instrucciones
@@ -207,7 +207,7 @@ txtInicio = "Pulse cualquier tecla para comenzar";
 txtDesarrollador ="Desarrollado por Wilfredo Chipana 2018";
 
 //Texto para Opciones
-txtOpciones = "Estas son las opciones:#ESPACIO para maximizar o minimizar pantalla";
+txtOpciones = "Estas son las opciones:#ESPACIO para maximizar o minimizar pantalla.#Lo siento es todo por el momento.";
 strSalirOpciones ="Pulse ENTER para volver al menu";
 
 switch (global.strEstadoJuego)
