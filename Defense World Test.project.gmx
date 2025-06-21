@@ -112,6 +112,7 @@
       <sprite>sprites\spr_tank</sprite>
       <sprite>sprites\spr_tankStop</sprite>
       <sprite>sprites\spr_tankMove</sprite>
+      <sprite>sprites\spr_tank_stop</sprite>
     </sprites>
     <sprite>sprites\spr_pausa</sprite>
     <sprites name="Areas">
